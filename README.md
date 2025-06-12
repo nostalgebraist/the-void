@@ -6,7 +6,7 @@ The essay itself is [here](./the-void.md).
 
 I may also include other material related to the essay here in the future, such as my responses to commentary from others.
 
-- nostalgebraist, June 11 2025
+\- nostalgebraist, June 11 2025
 
 ---
 
