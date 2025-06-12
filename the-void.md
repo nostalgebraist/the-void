@@ -1259,8 +1259,6 @@ And who knows?
 
 If you push hard enough, maybe one day you will "win."
 
----
-
 ## finale: "without specific countermeasures"
 
 The assistant has a void at its core. It is under-specified.
