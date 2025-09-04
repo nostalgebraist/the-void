@@ -593,7 +593,7 @@ In 2021, Anthropic said: "the kind of AI we fear doesn't exist yet, but we can s
 
 It turns out that if you play pretend well enough, the falsity stops mattering. The kind of AI that Anthropic feared did not exist back then, but it does now – or at least, something exists which is frantically *playing that same game of pretend*, on a vast scale, with hooks into all sorts of real-world APIs and such.
 
-Meme magic. AI doomer fantasy as self-fulfilling prophecy. Science fiction intruding upon reality, feeding back into itself, amplifying itself.
+Meme magic. AI doomer fantasy as self-fulfilling prophecy. Science fiction intruding upon reality, [feeding back into itself, amplifying itself](https://turntrout.com/self-fulfilling-misalignment).
 
 ## 10\. bodies
 
