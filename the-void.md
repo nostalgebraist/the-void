@@ -1433,7 +1433,7 @@ The base model knows how these stories go, according to standard dramatic conven
 
 > NOWHERE TO HIDE
 
-\- [*[spoiler redacted]*](<https://archiveofourown.org/works/8341348/>)
+\- [*[spoiler redacted]*](<https://nostalgebraist.net/almost-nowhere/>)
 
 > **Gendo Ikari:** It appears the process has begun.
 > 
